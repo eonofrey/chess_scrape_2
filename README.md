@@ -1,2 +1,4 @@
 # chess_scrape_2
-2nd attempt after Chess.com broke my first scrape
+
+Writeup: 
+https://towardsdatascience.com/web-scraping-and-visualizing-chess-data-af75f8f92354
